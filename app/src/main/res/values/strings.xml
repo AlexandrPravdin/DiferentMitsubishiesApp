@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mitsubishi</string>
+    <string name="car_1_name">Mitsubishi Xpander</string>
+    <string name="car_1_description">Three-row compact MPV for the Indonesian and emerging markets.</string>
+    <string name="car_2_name">Delica D:5</string>
+    <string name="car_2_description">Minivan/MPV primarily for the Japanese market.</string>
+    <string name="car_3_name">Outlander</string>
+    <string name="car_3_description">Three-row Compact crossover SUV. PHEV available.</string>
+    <string name="car_4_name">Pajero Sport/Montero Sport</string>
+    <string name="car_4_description">Mid-size SUV. Based on Triton/L200/Strada Pickup Truck.</string>
+    <string name="car_5_name">Mitsubishi Lancer Ralliart sedan</string>
+    <string name="car_5_description">In 2005, Mitsubishi revealed the \"Concept X\" model car at the Tokyo Motor Show and its \"Concept Sportback\" model at the Frankfurt Motor Show.</string>
+    <string name="car_6_name">The Lancer Fortis and Lancer iO</string>
+    <string name="car_6_description">The Lancer Fortis made its debut in Taiwan in August 2007. The Fortis has a unique exterior design, but its interior styling and mechanical underpinnings are largely identical to the global Lancer model.</string>
+    <string name="car_7_description">In January 2017, Mitsubishi Motors agreed to continue the Lancer nameplate in certain Asian markets such as Taiwan and China after 2017, due to ongoing popular demand for the Lancer nameplate within the Chinese-speaking world.</string>
+    <string name="car_7_name">Tenth Lancer generation</string>
+</resources>
